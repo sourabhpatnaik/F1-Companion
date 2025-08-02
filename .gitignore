@@ -2,4 +2,3 @@ cache/
 __pycache__/
 *.sqlite
 *.ff1pkl
-.env

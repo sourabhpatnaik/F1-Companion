@@ -11,8 +11,8 @@ from f1_features import (
 )
 
 # Load token from .env
-load_dotenv()
-TOKEN = os.getenv("DISCORD_TOKEN")
+load_dotenv()  # Loads from .env in same folder
+TOKEN = "DISCORD_TOKEN"
 
 # Set up intents properly
 intents = discord.Intents.default()
