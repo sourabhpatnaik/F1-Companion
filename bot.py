@@ -12,7 +12,7 @@ from f1_features import (
 
 # Load token from .env
 load_dotenv()  # Loads from .env in same folder
-TOKEN = "MTQwMDA3MTE5Mjk0MDkwODU4NA.GbqtAK.Bxhv33hDSHRuJmMNnKUAX8LIWYCSJVGlo-_skE"
+TOKEN = "Toke here"
 
 # Set up intents properly
 intents = discord.Intents.default()
