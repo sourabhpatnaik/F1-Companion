@@ -1,0 +1,29 @@
++-------+------------------------------------------------------------------------+------------+-------------------+----------------------+
+| Round |                               Event Name                               | Event Date |      Country      |       Location       |
++-------+------------------------------------------------------------------------+------------+-------------------+----------------------+
+|   0   |                FORMULA 1 ARAMCO PRE-SEASON TESTING 2025                | 2025-02-28 |      Sakhir       |       Bahrain        |
+|   1   |           FORMULA 1 LOUIS VUITTON AUSTRALIAN GRAND PRIX 2025           | 2025-03-16 |     Melbourne     |      Australia       |
+|   2   |               FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2025               | 2025-03-23 |     Shanghai      |        China         |
+|   3   |               FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025                | 2025-04-06 |      Suzuka       |        Japan         |
+|   4   |               FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2025               | 2025-04-13 |      Sakhir       |       Bahrain        |
+|   5   |              FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025               | 2025-04-20 |      Jeddah       |     Saudi Arabia     |
+|   6   |               FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2025               | 2025-05-04 |       Miami       |    United States     |
+|   7   | FORMULA 1 AWS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2025 | 2025-05-18 |       Imola       |        Italy         |
+|   8   |             FORMULA 1 TAG HEUER GRAND PRIX DE MONACO 2025              | 2025-05-25 |      Monaco       |        Monaco        |
+|   9   |              FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2025               | 2025-06-01 |     Barcelona     |        Spain         |
+|  10   |              FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025               | 2025-06-15 |     Montréal      |        Canada        |
+|  11   |             FORMULA 1 MSC CRUISES AUSTRIAN GRAND PRIX 2025             | 2025-06-29 |     Spielberg     |       Austria        |
+|  12   |            FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2025             | 2025-07-06 |    Silverstone    |    United Kingdom    |
+|  13   |            FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2025            | 2025-07-27 | Spa-Francorchamps |       Belgium        |
+|  14   |               FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025               | 2025-08-03 |     Budapest      |       Hungary        |
+|  15   |                FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025                | 2025-08-31 |     Zandvoort     |     Netherlands      |
+|  16   |              FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025               | 2025-09-07 |       Monza       |        Italy         |
+|  17   |           FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025           | 2025-09-21 |       Baku        |      Azerbaijan      |
+|  18   |         FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025         | 2025-10-05 |    Marina Bay     |      Singapore       |
+|  19   |          FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2025           | 2025-10-19 |      Austin       |    United States     |
+|  20   |           FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2025            | 2025-10-26 |    Mexico City    |        Mexico        |
+|  21   |         FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2025          | 2025-11-09 |     São Paulo     |        Brazil        |
+|  22   |              FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2025              | 2025-11-22 |     Las Vegas     |    United States     |
+|  23   |             FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2025              | 2025-11-30 |      Lusail       |        Qatar         |
+|  24   |           FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025           | 2025-12-07 |    Yas Island     | United Arab Emirates |
++-------+------------------------------------------------------------------------+------------+-------------------+----------------------+
