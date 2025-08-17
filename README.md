@@ -91,9 +91,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## Contact
-
-- GitHub: [yourusername](https://github.com/yourusername)  
-- Email: your.email@example.com  
-
 Stay updated with Formula 1 like never before with **F1 Companion Bot**! 🏎️💨
