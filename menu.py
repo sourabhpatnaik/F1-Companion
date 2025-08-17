@@ -1,4 +1,4 @@
-from f1_features import get_next_race, get_current_Driverstanding, get_full_seasonSchedule,get_DriverDetails,get_constructor_standings
+from f1_features import get_next_race, get_current_Driverstanding, get_full_seasonSchedule,get_DriverDetails,get_constructor_standings,get_fullRacesession_Info,recentRaceResult
 from tabulate import tabulate
 
 # Cache variable
@@ -16,7 +16,9 @@ def main_menu():
         print("3. Show Full Year Schedule")
         print("4. Show Driver Detail")
         print("5. Show Current Constructor Standings")
-        print("6. Exit")
+        print("6. Show Full Race Session Schedule")
+        print("7. Show Last Race Result")
+        print("8. Exit")
 
         choice = input("Enter your choice: ")
 
@@ -42,6 +44,13 @@ def main_menu():
             print(get_constructor_standings())
         
         elif choice == "6":
+            print(get_fullRacesession_Info())
+
+        elif choice == "7":
+            print("\nLAST RACE RESULT:")
+            print(recentRaceResult())
+
+        elif choice == "8":
             print("Goodbye!")
             break
 
